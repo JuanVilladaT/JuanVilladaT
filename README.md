@@ -2,232 +2,151 @@
 
 # Hello, World! 👋 I'm Juan Dev Villada
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpzYXZvOHk2aGNpeXV0YjcxZHBtd2cxbDJxZWJ5Y3E0enI1emE2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif" width="500"/>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Enthusiast;Flutter+Learner;Building+software+that+people+love+to+use.;Dream.+Code.+Build.+Repeat." />
+</p>
 
-### Building software that people love to use.
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpzYXZvOHk2aGNpeXV0YjcxZHBtd2cxbDJxZWJ5Y3E0enI1emE2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif" width="480"/>
 
-### Dream. Code. Build. Repeat.
-
-![](https://komarev.com/ghpvc/?username=JuanDevVillada&style=flat-square)
+![](https://komarev.com/ghpvc/?username=JuanVilladaT&style=flat-square)
 
 </div>
-
----
 
 ```cpp
 #include <iostream>
 
 class Developer {
 public:
-
     std::string name = "Juan Dev Villada";
     std::string role = "Software Engineer";
-    std::string location = "Medellín, Colombia 🇨🇴";
+    std::string location = "Medellín, Colombia";
 
-    void sayHello() {
-        std::cout << "Hello, World! 👋" << std::endl;
-    }
-
-    void mission() {
-        std::cout << "Building software that people love to use." << std::endl;
-        std::cout << "Dream. Code. Build. Repeat." << std::endl;
+    void mission() const {
+        std::cout << "Building software that people love to use.\n";
+        std::cout << "Dream. Code. Build. Repeat.\n";
     }
 };
 
 int main() {
-
-    Developer Juan;
-
-    Juan.sayHello();
-    Juan.mission();
-
+    Developer me;
+    me.mission();
     return 0;
 }
 ```
 
----
-
-## // About Me
+# // About Me
 
 ### 🇺🇸 English
 
 Hi! I'm **Juan Dev Villada**, a Software Engineer from Medellín, Colombia.
 
-I believe software should solve real problems and create a lasting impact.
+I started programming because I wanted to build something that could outlive me—software that solves real problems and leaves a positive impact.
 
-I started programming because I wanted to build something that would remain even when I'm gone—something useful that people could rely on.
-
-Every repository in this profile represents another step in my journey as a developer.
-
----
+Every repository is another step toward becoming the developer I aspire to be.
 
 ### 🇪🇸 Español
 
 ¡Hola! Soy **Juan Dev Villada**, Ingeniero de Software de Medellín, Colombia.
 
-Creo que el software debe resolver problemas reales y generar un impacto que perdure.
-
-Comencé a programar porque quería crear algo que permaneciera incluso cuando yo ya no estuviera; algo útil que pudiera ayudar a otras personas.
+Comencé a programar porque quería crear algo que trascendiera mi tiempo; software útil que pudiera ayudar a otras personas.
 
 Cada repositorio representa un nuevo paso en mi crecimiento como desarrollador.
 
 ---
 
-## // Current Journey
+# // Current Journey
 
 ```cpp
-CurrentJourney journey {
+Developer me;
 
-    .learning = "Flutter",
+me.learning("Flutter");
+me.exploring({
+    "Backend Development",
+    "Software Architecture",
+    "Cross-platform Development"
+});
 
-    .exploring = "Backend Development & Software Architecture",
-
-    .building = "Cross-platform Applications",
-
-    .lookingFor = "My first Software Developer opportunity",
-
-    .mindset = "Every project is another chance to learn."
-};
+me.building("Real-world applications");
+me.lookingFor("My first Software Developer opportunity");
 ```
 
----
+# // Why I Code
 
-## // Why I Code
+> **EN**
+>
+> I don't code just to write software.
+> I code because technology can outlive its creators.
+> Every application is a chance to solve a real problem and leave something meaningful behind.
 
-### 🇺🇸 English
+> **ES**
+>
+> No programo solo para escribir código.
+> Programo porque creo que la tecnología puede trascender a quienes la crean.
+> Cada aplicación es una oportunidad para resolver un problema real y dejar algo que permanezca.
 
-I don't code just to write software.
-
-I code because I believe technology can outlive the people who create it.
-
-Every application I build is another opportunity to solve a real problem, help someone, and leave something meaningful behind.
-
----
-
-### 🇪🇸 Español
-
-No programo solo para escribir código.
-
-Programo porque creo que la tecnología puede trascender a quienes la crean.
-
-Cada aplicación que desarrollo es una oportunidad para resolver un problema real, ayudar a alguien y dejar algo que permanezca.
-
----
-
-## // Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,java,dart,js,html,css,sql" />
-</p>
-
-### Frameworks & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,mongodb,sqlite" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
-</p>
-
----
-
-## // GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JuanDevVillada&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDevVillada&layout=compact&theme=github_dark&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanDevVillada&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-## // Connect with Me
+# // Tech Stack
 
 <p align="center">
-
-<a href="mailto:jvillada0300@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/juan-david-villada-725483301">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://www.instagram.com/jvillada.t">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,java,dart,js,html,css,mysql,flutter,mongodb,sqlite,git,github,vscode,androidstudio" />
 </p>
 
----
+# // GitHub Analytics
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JuanVilladaT&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVilladaT&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=JuanVilladaT&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=JuanVilladaT&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+# // Connect With Me
+
+<p align="center">
+<a href="mailto:jvillada0300@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/juan-david-villada-725483301"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.instagram.com/jvillada.t"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
 ```cpp
-bool imagine = true;
+bool dream = true;
 
-if (imagine) {
-
+while (dream) {
+    imagine();
     code();
-
+    learn();
     build();
-
     improve();
-
-    repeat();
 }
 ```
 
-> **"If you can imagine it, you can program it."**
-
----
+> **If you can imagine it, you can program it.**
 
 ```cpp
 int main() {
 
-    while (alive) {
+    Developer me;
 
-        imagine();
-
-        code();
-
-        build();
-
-        learn();
-
-        improve();
+    while (me.isAlive()) {
+        me.learn();
+        me.code();
+        me.build();
+        me.helpPeople();
     }
 
-    return legacy;
+    return 0;
 }
 ```
 
 <div align="center">
 
-### Thanks for visiting my profile.
+### Thanks for stopping by.
 
-### See you in the next commit. 🚀
+**See you in the next commit. 🚀**
 
 </div>
-
-<!--
-**JuanVilladaT/JuanVilladaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
